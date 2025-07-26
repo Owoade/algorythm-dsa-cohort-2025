@@ -1,0 +1,12 @@
+# Practice Problem: `nested_array_sum(arr)`
+
+## 🧠 Problem 1: Sum of Integers in Nested Arrays
+
+### Task
+
+Write a function `nested_array_sum(arr)` that returns the **total sum of all integers** in an **arbitrarily nested array**.
+
+### Example
+
+```js
+nested_array_sum([1, [[2], 3]]) // Output: 6
