@@ -1,0 +1,13 @@
+# Reverse Linked List Concatenation
+
+## Problem Statement
+
+Given a **non-empty linked list** of **non-negative integers**, return a **string** that is the concatenation of all the values in the list, **in reverse order**.
+
+You are **not allowed to mutate** the original linked list.
+
+list: 7 -> 0 -> 4 -> 9
+output: 9407
+
+list: 1 -> 2 -> 3
+output: 321
