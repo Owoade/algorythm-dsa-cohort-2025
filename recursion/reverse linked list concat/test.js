@@ -45,4 +45,4 @@ function buildLinkedList(values) {
     assert.strictEqual(reverse_linked_list_concat(head5), "563412");
   
     console.log("All tests passed.");
-  })();
+})();
