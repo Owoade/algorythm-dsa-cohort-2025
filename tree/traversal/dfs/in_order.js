@@ -1,4 +1,4 @@
-import { build_binary_search_tree } from "../builder.js";
+import { build_binary_search_tree } from "../../builder.js";
 
 function in_order_traversal( root ){
 

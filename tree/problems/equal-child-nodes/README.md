@@ -14,7 +14,7 @@ A **parent node** is any node that has at least two child nodes.
 ## Example  
 
 ### Input Tree:
-     5
+    5
     / \
    3   7
   / \   \
